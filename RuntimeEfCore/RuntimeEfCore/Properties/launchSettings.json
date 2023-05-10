@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RuntimeEfCore": {
+      "commandName": "Project",
+      "commandLineArgs": "\"data source=ILAYDCTK;initial catalog=AdventureWorks;integrated security=True; TrustServerCertificate=True\""
+    }
+  }
+}
